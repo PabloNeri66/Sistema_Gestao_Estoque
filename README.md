@@ -19,8 +19,10 @@ O **Sistema de Gestão de Estoque** é uma aplicação desenvolvida em **Django*
 - Controle de usuários e permissões (opcional)
 
 
+<img src="https://github.com/user-attachments/assets/4cdefb02-7b7c-4ba2-9c6d-93691d0c95fe" width="300">
 
-![image](https://github.com/user-attachments/assets/368e8082-0c0b-4a47-95e1-bd8a1f03f3ea)
+<img src="https://github.com/user-attachments/assets/368e8082-0c0b-4a47-95e1-bd8a1f03f3ea" width="380">
+
 
 Créditos:
 Baseado nas Lives do PycodeBR Sobre SGP e Webhooks
